@@ -1,12 +1,10 @@
-# Project 3 - *TWITTER*
+#*SIMPLE TWEET*
 
 **TWITTER** is an android app that allows a user to view their Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **20** hours spent in total
 
 ## User Stories
-
-The following **required** functionality is completed:
 
 * [x]	User can **sign in to Twitter** using OAuth login
 * [x]	User can **view tweets from their home timeline**
@@ -21,7 +19,7 @@ The following **required** functionality is completed:
 * [x] User can **pull down to refresh tweets timeline**
 * [x] User can **see embedded image media within a tweet** on list or detail view.
 
-The following **optional** features are implemented:
+In the future, I hope to implement the following:
 
 * [ ] User is using **"Twitter branded" colors and styles**
 * [ ] User sees an **indeterminate progress indicator** when any background or network task is happening
@@ -38,9 +36,6 @@ The following **optional** features are implemented:
 * [ ] On the Twitter timeline, apply scrolling effects such as [hiding/showing the toolbar](http://guides.codepath.org/android/Using-the-App-ToolBar#reacting-to-scroll) by implementing [CoordinatorLayout](http://guides.codepath.org/android/Handling-Scrolls-with-CoordinatorLayout#responding-to-scroll-events).
 * [ ] User can **open the twitter app offline and see last loaded tweets**. Persisted in SQLite tweets are refreshed on every application launch. While "live data" is displayed when app can get it from Twitter API, it is also saved for use in offline mode.
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -50,9 +45,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [Kap](https://getkap.co/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
